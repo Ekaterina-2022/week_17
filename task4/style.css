@@ -1,0 +1,16 @@
+.container {
+	display: flex;
+	flex-wrap: wrap;
+	height: 100vh;
+	justify-content: center;
+}
+.numbers {
+	width: 450px;
+	height: 30px;
+	border: 2px solid brown;
+	margin-right: 10px;
+}
+#btn {
+	display: block;
+	height: 40px;
+}
